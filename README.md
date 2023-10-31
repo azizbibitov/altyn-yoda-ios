@@ -13,7 +13,8 @@ Altyn Yoda - Transportation Services in Turkmenistan
 
 ![Screenshot 2](screenshots/screenshot2.png)
 
-![Slide 16_9 - 188](https://github.com/azizbibitov/altyn-yoda-ios/assets/98221949/51ec7709-51eb-400e-9833-3248731b66fd){width=50}
+![Slide 16_9 - 188](https://github.com/azizbibitov/altyn-yoda-ios/assets/98221949/659135f9-9381-484a-bfe7-6c1599acca61)
+
 
 ## Features
 
