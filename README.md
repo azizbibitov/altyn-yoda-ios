@@ -9,13 +9,14 @@ Altyn Yoda - Transportation Services in Turkmenistan
 
 ## Screenshots
 
-<img width="125" alt="Slide 16_9 - 199" src="https://github.com/azizbibitov/altyn-yoda-ios/assets/98221949/730df9f5-acf4-4310-9a1c-e150a4fda08a">
-<img width="125" alt="Slide 16_9 - 198" src="https://github.com/azizbibitov/altyn-yoda-ios/assets/98221949/272da3cf-ccf7-4554-a98c-884e0622a8b6">
-<img width="125" alt="Slide 16_9 - 197" src="https://github.com/azizbibitov/altyn-yoda-ios/assets/98221949/d87403c0-0bda-4439-9fac-7a07df500736">
-<img width="125" alt="Slide 16_9 - 196" src="https://github.com/azizbibitov/altyn-yoda-ios/assets/98221949/8eeaf713-2cec-42aa-b52e-5fe22887a793">
-<img width="125" alt="Slide 16_9 - 195" src="https://github.com/azizbibitov/altyn-yoda-ios/assets/98221949/2f73be42-6a9a-48da-a2a3-44291664f052">
-<img width="125" alt="Slide 16_9 - 194" src="https://github.com/azizbibitov/altyn-yoda-ios/assets/98221949/9d68fed2-90f7-4536-b2ac-911035085994">
-![Slide 16_9 - 188](https://github.com/azizbibitov/altyn-yoda-ios/assets/98221949/c4c39b2a-0dcf-4f8c-900d-a2ccc537e26a)
+
+<img width="125" alt="Slide 16_9 - 199" src="https://github.com/azizbibitov/altyn-yoda-ios/assets/98221949/c091f6e2-da54-4028-9587-d28a999dc542">
+<img width="125" alt="Slide 16_9 - 198" src="https://github.com/azizbibitov/altyn-yoda-ios/assets/98221949/4149c4f2-f341-4b7a-83f4-418b1fa3829b">
+<img width="125" alt="Slide 16_9 - 197" src="https://github.com/azizbibitov/altyn-yoda-ios/assets/98221949/5c6eb6f3-effb-4298-b5b8-4c4f69d977d3">
+<img width="125" alt="Slide 16_9 - 196" src="https://github.com/azizbibitov/altyn-yoda-ios/assets/98221949/9cefe1d4-6198-4565-9bf1-ce113642f445">
+<img width="125" alt="Slide 16_9 - 195" src="https://github.com/azizbibitov/altyn-yoda-ios/assets/98221949/459fb234-1d69-4260-b562-62e0a39dddf6">
+<img width="125" alt="Slide 16_9 - 194" src="https://github.com/azizbibitov/altyn-yoda-ios/assets/98221949/84b6f114-8e52-45c3-ab5c-d0f4220d4da2">
+<img width="125" alt="Slide 16_9 - 188" src="[https://github.com/azizbibitov/altyn-yoda-ios/assets/98221949/84b6f114-8e52-45c3-ab5c-d0f4220d4da2](https://github.com/azizbibitov/altyn-yoda-ios/assets/98221949/3cd87142-b3e5-435d-b731-ae8a9f7bc73d)">
 
 
 
