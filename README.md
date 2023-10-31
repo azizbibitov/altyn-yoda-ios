@@ -23,20 +23,13 @@ Altyn Yoda - Transportation Services in Turkmenistan
 
 ## Features
 
-List the key features and functionalities of your app:
-
-- Feature 1: Describe the first feature.
-- Feature 2: Describe the second feature.
-- Feature 3: Describe the third feature.
-- ...
+- UIKit Programatically.
+- Client-Server Application.
 
 ## Tools
 
-Mention the tools, libraries, or frameworks you used in your app development:
-
-- Tool 1: Describe the first tool.
-- Tool 2: Describe the second tool.
-- Tool 3: Describe the third tool.
+- RxSwift.
+- Google Maps.
 - ...
 
 ## Installation
