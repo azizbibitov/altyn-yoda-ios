@@ -4,6 +4,9 @@ Altyn Yoda - Transportation Services in Turkmenistan
 
 ![App Logo](screenshots/app_logo.png)
 
+![altyn-yoda-logo-dark](https://github.com/azizbibitov/altyn-yoda-ios/assets/98221949/bbcb67e4-6d23-4c7e-a870-3baeec835b2f)
+
+
 ## Description
 
 Provide a concise description of your app. Mention its purpose, target audience, and any unique features or selling points.
