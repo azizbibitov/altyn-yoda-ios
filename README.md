@@ -30,16 +30,14 @@ Altyn Yoda - Transportation Services in Turkmenistan
 
 - RxSwift.
 - Google Maps.
-- ...
 
 ## Installation
 
 Provide instructions for installing and running your app. Include any prerequisites, dependencies, or setup steps:
 
 1. Clone the repository.
-2. Open the project in Xcode.
-3. Open a terminal window and navigate to the project directory.
-4. Run the following command to install the required CocoaPods dependencies:
+2. Open a terminal window and navigate to the project directory.
+3. Run the following command to install the required CocoaPods dependencies:
 
 ```bash
 pod install
