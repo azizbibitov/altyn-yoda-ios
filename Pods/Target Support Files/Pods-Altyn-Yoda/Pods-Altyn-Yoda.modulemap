@@ -1,0 +1,6 @@
+framework module Pods_Altyn_Yoda {
+  umbrella header "Pods-Altyn-Yoda-umbrella.h"
+
+  export *
+  module * { export * }
+}

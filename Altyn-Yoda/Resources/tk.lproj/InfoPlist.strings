@@ -1,0 +1,12 @@
+/* 
+  InfoPlist.strings
+  Altyn-Yoda
+
+  Created by Aziz's MacBook Air on 04.04.2023.
+  
+*/
+
+"NSLocationAlwaysUsageDescription" = "Ýeriňizi ibermek üçin “Salam” programmasynyň geolokasiýa ýerleşmegine rugsat beriň";
+"NSLocationWhenInUseUsageDescription" = "Ýeriňizi ibermek üçin “Salam” programmasynyň geolokasiýa ýerleşmegine rugsat beriň";
+"NSCameraUsageDescription" = "Bu size wideo jaň etmäge, surata düşmäge we wideo ýazmaga mümkinçilik berýär";
+"NSPhotoLibraryUsageDescription" = "Bu, kitaphanaňyzdan suratlary ibermäge we ýatda saklamaga mümkinçilik berýär";

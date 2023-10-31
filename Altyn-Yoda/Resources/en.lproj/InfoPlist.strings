@@ -1,0 +1,12 @@
+/* 
+  InfoPlist.strings
+  Altyn-Yoda
+
+  Created by Aziz's MacBook Air on 04.04.2023.
+  
+*/
+
+"NSLocationAlwaysUsageDescription" = "To send your location, allow the “Altyn Yoda” application access to geolocation";
+"NSLocationWhenInUseUsageDescription" = "To send your location, allow the “Altyn Yoda” application access to geolocation";
+"NSCameraUsageDescription" = "This lets you take photos";
+"NSPhotoLibraryUsageDescription" = "This lets you take photos from your library and send them as additional media information to your order";
