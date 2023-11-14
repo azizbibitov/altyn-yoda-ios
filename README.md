@@ -7,6 +7,8 @@
 
 Altyn Yoda - Transportation Services in Turkmenistan
 
+[Project Presentation](https://azizbibitov.github.io/portfolio/documents/altyn-yoda-desc.pdf)
+
 ## Screenshots
 
 
